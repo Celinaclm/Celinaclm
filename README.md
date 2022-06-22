@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🤘, I'm Celina!</h1>
 <h3 align="center">A passionate full-stack developer in Barcelona</h3>
 
-- 🔭 I’m currently working on welocalize <3
+- 🔭 I’m currently working at Welocalize ❤️
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Celinaclm](https://github.com/Celinaclm)
 
@@ -13,8 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/celina-lopez-martin/" height="30" width="40" />
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/celina-lopez-martin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/celina-lopez-martin/" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/celinaclm2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="celinaclm2019" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/Bastis#3937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Bastis#3937" height="30" width="40" /></a>
 </p>
 
