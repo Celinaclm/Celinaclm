@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Celinaclm](https://github.com/Celinaclm)
+- 👩🏻‍💻 All of my projects are available at [https://github.com/Celinaclm](https://github.com/Celinaclm)
 
 - 📝 You can also find me on [https://www.linkedin.com/in/celina-lopez-martin/](https://www.linkedin.com/in/celina-lopez-martin/)
 
