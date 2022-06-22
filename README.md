@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🤘, I'm Celina!</h1>
 <h3 align="center">A passionate full-stack developer in Barcelona</h3>
 
-- 🔭 I’m currently working on [Minter](https://minter-app.herokuapp.com/)
+- 🔭 I’m currently working on welocalize <3
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Celinaclm](https://github.com/Celinaclm)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/celina-lopez-martin/](https://www.linkedin.com/in/celina-lopez-martin/)
+- 📝 You can also find me on [https://www.linkedin.com/in/celina-lopez-martin/](https://www.linkedin.com/in/celina-lopez-martin/)
 
 - 📫 How to reach me **celinaclm@gmail.com**
 
